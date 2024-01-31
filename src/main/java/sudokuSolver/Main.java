@@ -63,8 +63,9 @@ public class Main {
 	public static void main(String[] args) {
 
 		// Use one of the boards defined above (or create your own)
-//		Board puzzle = new BasicBoard(test01);
-		DiagonalBoard puzzle = new DiagonalBoard(diagonalTest01);
+//		Board puzzle = new BasicBoard(easy6x6);
+		Board puzzle = new BasicBoard(test01);
+//		DiagonalBoard puzzle = new DiagonalBoard(diagonalTest01);
 		System.out.println("Initial:\n"+puzzle);
 
 		// Build a search tree to brute force the solution

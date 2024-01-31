@@ -23,4 +23,4 @@
     ![Construct a Board object](./documentation/Construct.png)
 * Build and run your *.jar file.
 * An appropriate solution will be the output on the terminal.
-    ![Construct a Board object](./documentation/Terminal.png)
+    ![Output on the terminal](./documentation/Terminal.png)
